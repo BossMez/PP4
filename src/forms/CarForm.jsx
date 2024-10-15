@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import Button from "@mui/material/Button";
 import { FormContainer, TextFieldElement, useForm} from "react-hook-form-mui";
 import TextField from "@mui/material/TextField";
- import FormRow from "./FormRow";
+import FormRow from "./FormRow";
 import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from 'yup';
 
